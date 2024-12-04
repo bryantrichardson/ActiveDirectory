@@ -1,1 +1,1 @@
-# ActiveDirectory
+# Charlotte Hornets Active Directory Project
