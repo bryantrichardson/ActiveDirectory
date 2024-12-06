@@ -9,7 +9,7 @@ This post will be broken down into sections titled VMs Setup, Active Directory, 
 To be upfront and honest, I mimicked Josh Madakor's <a href="https://www.youtube.com/watch?v=MHsI8hJmggI&forced">video</a> to setup my two VMs. I did not follow his steps in regards to running the Powershell script that created roughly 1,000 users since I planned on creating users associated with the Charlotte Hornets Organization. Everything else I essentially followed to a T. I had to recreate this VM multiple times, so I did learn how to do it without the video eventually.
 
 ## Active Directory
-![Users___Groups____OUs](https://github.com/user-attachments/assets/8e087bf0-2b1c-43e7-8659-041127b02f3b)
+I cannot find the reddit post I found in regards to how to learn Active Directory, but the person's post detailed how they mimicked their favorite TV show to create users/organizational units/security groups. This 
 
 ## Help Desk
 
