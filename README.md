@@ -32,13 +32,13 @@ I began by looking up people associated with both the Basketball Operations side
 
 
 ## Help Desk
-<img width="500" alt="GPO-account-lockout" source="https://github.com/user-attachments/assets/661c4edf-fd21-47e2-88d3-0a64f8551dcf"><br>
+<img width="500" alt="GPO-account-lockout" src="https://github.com/user-attachments/assets/661c4edf-fd21-47e2-88d3-0a64f8551dcf"><br>
 
-<img width="500" alt="LaMelo-locked-out" source="https://github.com/user-attachments/assets/2310ad13-4893-4c03-9fe5-1e8314f45d45"><br>
+<img width="500" alt="LaMelo-locked-out" src="https://github.com/user-attachments/assets/2310ad13-4893-4c03-9fe5-1e8314f45d45"><br>
 
 TICKET IMG GOES HERE
 
-<img width="500" alt="Fixing-LaMelo" source="https://github.com/user-attachments/assets/9d8fb836-c43f-47a0-b128-237e3f958d32"><br>
+<img width="500" alt="Fixing-LaMelo" src="https://github.com/user-attachments/assets/9d8fb836-c43f-47a0-b128-237e3f958d32"><br>
 
 
 
