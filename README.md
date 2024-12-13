@@ -13,8 +13,15 @@ I cannot find the reddit post I found in regards to how to best learn Active Dir
 
 I began by looking up people associated with both the Basketball Operations side of the Charlotte Hornets as well as the Business Operations side. This would allow me to create different OUs and security groups to then allow me to have distinct shared files within these groups. I will have my sources down below where I found the staff associated with the business side of the Charlotte Hornets, the medical staff, the coaching staff and the players, but here is a screenshot showcasing the users/OUs/security groups.<br>
 <img width="500" alt="users-and-groups" src="https://github.com/user-attachments/assets/5db3e9c4-9fbc-4679-9e45-24390cffbb49"><br>
+
 <img width="500" alt="shared-folders" src="https://github.com/user-attachments/assets/026cb9a9-b950-4fb0-97ed-78bd341cf6e8"><br>
+
+<img width="500" alt="basketball-share" src="https://github.com/user-attachments/assets/fbd68d70-5f3e-46ab-9ad0-cad428492b57"><br>
+
+<img width="500" alt="business-share" src="https://github.com/user-attachments/assets/557a622d-80be-4929-806e-8a2214a8f26e"><br>
+
 <img width="500" alt="scw-mapping-files" src="https://github.com/user-attachments/assets/a1ed5430-837b-4773-8e49-53a437db560b"><br>
+
 <img width="500" alt="scw-mapped-file" src="https://github.com/user-attachments/assets/cce9d657-ca86-46ca-a39f-cc4ebbe2be0c"><br>
 
 
@@ -22,6 +29,22 @@ I began by looking up people associated with both the Basketball Operations side
 
 
 
+
+
 ## Help Desk
+<img width="500" alt="GPO-account-lockout" source="https://github.com/user-attachments/assets/661c4edf-fd21-47e2-88d3-0a64f8551dcf"><br>
+
+<img width="500" alt="LaMelo-locked-out" source="https://github.com/user-attachments/assets/2310ad13-4893-4c03-9fe5-1e8314f45d45"><br>
+
+TICKET IMG GOES HERE
+
+<img width="500" alt="Fixing-LaMelo" source="https://github.com/user-attachments/assets/9d8fb836-c43f-47a0-b128-237e3f958d32"><br>
+
+
+
+
+
+
+
 
 ## Sources
