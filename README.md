@@ -53,11 +53,15 @@ https://www.youtube.com/watch?v=MHsI8hJmggI&forced<br>
 Josh's video helped me setup the domain controller and the windows client VMs.<br>
 
 **KevTech's Active Directory Lab Playlist**
-https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht (KevTech's Playlist)<br>
+https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht<br>
 KevTech's playlist gave me ideas/inspiration to add to my own setup. Overall, his playlists are full of knowledge and are a great way to get some hands on experience with HelpDesk.<br>
 
-https://www.nba.com/hornets/staff (non nba staff)<br>
-https://www.spotrac.com/nba/charlotte-hornets/cap/_/year/2024 (players)<br>
-https://www.nba.com/hornets/news/charlotte-hornets-announce-2024-25-health-and-performance-staff (performance staff)<br>
-https://www.nba.com/hornets/news/charlotte-hornets-finalize-2024-25-coaching-staff (coaching staff)<br>
+**Business/Coaching/Performance Staff along with Players**
+https://www.nba.com/hornets/staff (Business Staff)<br>
+https://www.nba.com/hornets/news/charlotte-hornets-finalize-2024-25-coaching-staff (Coaching Staff)<br>
+https://www.nba.com/hornets/news/charlotte-hornets-announce-2024-25-health-and-performance-staff (Performance Staff)<br>
+https://www.spotrac.com/nba/charlotte-hornets/cap/_/year/2024 (Players)<br>
+Sites where I found the employees of the Charlotte Hornets Organization.
+
+
 
