@@ -48,15 +48,15 @@ TICKET IMG GOES HERE
 
 
 ## Sources
-**Josh Madakor's Video**
+**Josh Madakor's Video**<br>
 https://www.youtube.com/watch?v=MHsI8hJmggI&forced<br>
 Josh's video helped me setup the domain controller and the windows client VMs.<br>
 
-**KevTech's Active Directory Lab Playlist**
+**KevTech's Active Directory Lab Playlist**<br>
 https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht<br>
 KevTech's playlist gave me ideas/inspiration to add to my own setup. Overall, his playlists are full of knowledge and are a great way to get some hands on experience with HelpDesk.<br>
 
-**Business/Coaching/Performance Staff along with Players**
+**Business/Coaching/Performance Staff along with Players**<br>
 https://www.nba.com/hornets/staff (Business Staff)<br>
 https://www.nba.com/hornets/news/charlotte-hornets-finalize-2024-25-coaching-staff (Coaching Staff)<br>
 https://www.nba.com/hornets/news/charlotte-hornets-announce-2024-25-health-and-performance-staff (Performance Staff)<br>
