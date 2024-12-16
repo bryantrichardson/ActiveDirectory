@@ -50,7 +50,7 @@ TICKET IMG GOES HERE
 ## Sources
 **Josh Madakor's Video**
 https://www.youtube.com/watch?v=MHsI8hJmggI&forced<br>
-Josh's video helped me setup the domain controller and the windows client VMs.<br><br>
+Josh's video helped me setup the domain controller and the windows client VMs.<br>
 
 **KevTech's Active Directory Lab Playlist**
 https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht (KevTech's Playlist)<br>
