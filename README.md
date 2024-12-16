@@ -48,8 +48,9 @@ TICKET IMG GOES HERE
 
 
 ## Sources
+#### Josh Madakor's Video
 https://www.youtube.com/watch?v=MHsI8hJmggI&forced (VM setup)<br>
-Josh Madakor's <a href="https://www.youtube.com/watch?v=MHsI8hJmggI&forced">video</a> in regards to setting up the domain controller and windows client VMs.<br>
+Josh's video helped me setup the domain controller and the windows client VMs.<br>
 https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht (KevTech's Playlist)<br>
 https://www.nba.com/hornets/staff (non nba staff)<br>
 https://www.spotrac.com/nba/charlotte-hornets/cap/_/year/2024 (players)<br>
