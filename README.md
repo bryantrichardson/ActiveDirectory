@@ -48,7 +48,7 @@ TICKET IMG GOES HERE
 
 
 ## Sources
-#### Josh Madakor's Video
+**Josh Madakor's Video**
 https://www.youtube.com/watch?v=MHsI8hJmggI&forced (VM setup)<br>
 Josh's video helped me setup the domain controller and the windows client VMs.<br>
 https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht (KevTech's Playlist)<br>
