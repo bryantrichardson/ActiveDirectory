@@ -13,9 +13,11 @@ I cannot find the reddit post I found in regards to how to best learn Active Dir
 
 I began by looking up people associated with both the Basketball Operations side of the Charlotte Hornets as well as the Business Operations side. This would allow me to create different OUs and security groups to then allow me to have distinct shared files within these groups. I will have my sources down below where I found the staff associated with the business side of the Charlotte Hornets, the coaching staff, the performance staff and the players, but here is a screenshot showcasing the users/OUs/security groups.<br><br>
 <img width="500" alt="users-and-groups" src="https://github.com/user-attachments/assets/5db3e9c4-9fbc-4679-9e45-24390cffbb49"><br>
-Overall, I ended up having 77 users along with 5 OUs and 5 security groups. Using these security groups, I then created the below shared folders titled Business and Basketball to illustrate the difference between the Basketball and Business Operations.
+Overall, I ended up having 77 users along with 5 OUs and 5 security groups. Using these security groups, I then created the below shared folders titled Business and Basketball to illustrate the difference between the Basketball and Business Operations.<br>
 
 <img width="500" alt="shared-folders" src="https://github.com/user-attachments/assets/026cb9a9-b950-4fb0-97ed-78bd341cf6e8"><br>
+
+Within both of these shared folders, I was then able to create additional folders to house other information. The screenshot below shows the additional folders I created withinthe Basketball share folder. I had to disable object inheritance for these subfolders in order to get the permissions correct in regards to who could access them. For example, 
 
 <img width="500" alt="basketball-share" src="https://github.com/user-attachments/assets/fbd68d70-5f3e-46ab-9ad0-cad428492b57"><br>
 
