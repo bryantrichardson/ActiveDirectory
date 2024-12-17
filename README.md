@@ -59,7 +59,7 @@ Josh's video helped me setup the domain controller and the windows client VMs.<b
 
 **KevTech's Active Directory Lab Playlist**<br>
 https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht<br>
-KevTech's playlist gave me ideas/inspiration to add to my own setup. Overall, his playlists are full of knowledge and are a great way to get some hands on experience with HelpDesk.<br>
+KevTech's playlist gave me ideas/inspiration to add to my own setup. Overall, his playlists are full of knowledge and are a great way to get some hands on experience with HelpDesk issues within your own VMs.<br>
 
 **Business/Coaching/Performance Staff along with Players**<br>
 https://www.nba.com/hornets/staff (Business Staff)<br>
