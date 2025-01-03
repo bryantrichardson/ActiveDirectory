@@ -21,7 +21,7 @@ Within both of these shared folders, I was then able to create additional folder
 
 <img width="500" alt="basketball-share" src="https://github.com/user-attachments/assets/fbd68d70-5f3e-46ab-9ad0-cad428492b57"><br>
 
-For example from the above screenshot, the performance staff and the players have access to the Injuries subfolder meanwhile only the players and the coaching staff have access to the Box Scores subfolder. To further illustrate this point, within the Injuries subfolder are two folders titled "Rehab Programs" and "Injury Reports" of which only players have access to the former while performance staff have access to both. This made my shared folders complicated while I only have 5 Security Groups, I can only imagine what this would be like in an actual corporate environment.<br>
+For example from the above screenshot, the performance staff and the players have access to the "Injuries" subfolder meanwhile only the players and the coaching staff have access to the "Box Scores" subfolder. To further illustrate this point, within the Injuries subfolder are two folders titled "Rehab Programs" and "Injury Reports" of which only players have access to the former while performance staff have access to both. This made my shared folders complicated while I only have 5 Security Groups, I can only imagine what this would be like in an actual corporate environment.<br>
 
 <img width="500" alt="business-share" src="https://github.com/user-attachments/assets/557a622d-80be-4929-806e-8a2214a8f26e"><br>
 
