@@ -20,7 +20,7 @@ For example from the above screenshot, the performance staff and the players hav
 <img width="500" alt="business-share" src="https://github.com/user-attachments/assets/557a622d-80be-4929-806e-8a2214a8f26e"><br>
 To put the final nail in the coffin of the previous point, the above screenshot showcases the Business shared folder. Within each of the folders in the screeshot are a plethora of subfolders all relating to the Charlotte Hornets Organization's revenue. For example, within the "Arena Revenue" are folders related to events held at Spectrum Center whether they be sponsored events/concerts/charity events. You can only imagine where the rabbit hole of subfolders could go from here especially in regards to "Basketball Revenue" and "Gaming Revenue". This truly made me realize just how complicated a corporation's Active Directory could be in regards to the amount of users/OUs/security groups in place as well as the amount of shared folders and permissions that come with those folders.
 <img width="500" alt="scw-mapping-files" src="https://github.com/user-attachments/assets/a1ed5430-837b-4773-8e49-53a437db560b"><br>
-<img width="500" alt="scw-mapped-file" src="https://github.com/user-attachments/assets/cce9d657-ca86-46ca-a39f-cc4ebbe2be0c"><br>
+<img width="500" alt="scw-mapped-file" src="https://github.com/user-attachments/assets/cce9d657-ca86-46ca-a39f-cc4ebbe2be0c">
 The two screenshots above illustrate how I mapped the Business shared folder to Ms. Shelly Cayette-Weston's personal drive. This allows for much easier access to these shared folders while also being there consistently after every reboot of the PC.
 
 
