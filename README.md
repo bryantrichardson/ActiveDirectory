@@ -24,11 +24,6 @@ To put the final nail in the coffin of the previous point, the above screenshot 
 The two screenshots above illustrate how I mapped the Business shared folder to Ms. Shelly Cayette-Weston's personal drive. This allows for much easier access to these shared folders while also being there consistently after every reboot of the PC.
 
 
-
-
-
-
-
 ## Help Desk
 <img width="500" alt="GPO-account-lockout" src="https://github.com/user-attachments/assets/661c4edf-fd21-47e2-88d3-0a64f8551dcf"><br>
 
