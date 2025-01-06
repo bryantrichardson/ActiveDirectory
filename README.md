@@ -29,7 +29,7 @@ To put the final nail in the coffin of the previous point, the above screenshot 
 <img width="500" alt="scw-mapping-files" src="https://github.com/user-attachments/assets/a1ed5430-837b-4773-8e49-53a437db560b"><br>
 
 <img width="500" alt="scw-mapped-file" src="https://github.com/user-attachments/assets/cce9d657-ca86-46ca-a39f-cc4ebbe2be0c"><br>
-
+The two screenshots above illustrate how I mapped the Business shared folder to Ms. Shelly Cayette-Weston's personal drive. This allows for much easier access to these shared folders while also being there consistently after every reboot of the PC.
 
 
 
