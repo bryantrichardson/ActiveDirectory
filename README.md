@@ -34,7 +34,7 @@ Within this section I will detail how I went about solving prototypical helpdesk
 
 
 
-<img width="500" alt="Fixing-LaMelo" src="https://github.com/user-attachments/assets/9d8fb836-c43f-47a0-b128-237e3f958d32"><br>
+<img width="500" img height="300" alt="Fixing-LaMelo" src="https://github.com/user-attachments/assets/9d8fb836-c43f-47a0-b128-237e3f958d32"><br>
 
 
 
