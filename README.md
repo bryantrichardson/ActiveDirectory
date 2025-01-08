@@ -34,12 +34,8 @@ The screenshot below is the screen LaMelo Ball would see after attempting 5 inco
 Below is a screenshot of LaMelo Ball's user account properties. You can see the box checked for unlocking his account as well as the box below that one that is checked ensuring he changes his password at his next logon.
 <img width="500" img height="250" alt="Fixing-LaMelo" src="https://github.com/user-attachments/assets/9d8fb836-c43f-47a0-b128-237e3f958d32"><br>
 
-
-
-
-
-
-
+## Conclusion
+Overall, this project was very fun and interesting. It allowed me to gain some hands on experience using Active Directory in a HelpDesk environment on my own VMs. I never truly realized how vast a corporation's active directory could span in terms of users, OUs, security groups, and shared folders. The amount of due dilligence required to ensure that the correct security groups/users have permission to files through disabling object inheritance on folders on a corporate scale is remarkable considering how much trouble I had with only 77 users and 5 security groups. I throughouly enjoyed this project and once again would like to thank Josh Madakor and KevTech for the inspiration/guidance in regards to this project. 
 
 ## Sources
 **Josh Madakor's Video**<br>
