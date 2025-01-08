@@ -29,7 +29,7 @@ The two screenshots above illustrate how I mapped the Business shared folder to 
 ## Help Desk
 Within this section I will detail how I went about solving prototypical helpdesk tickets such as account lockouts and password resets. The screenshot below details the Group Policy Object rules/policies regarding account lockouts. I set it up to lock and account after 5 invalid password attempts.<br>
 <img width="500" alt="GPO-account-lockout" src="https://github.com/user-attachments/assets/661c4edf-fd21-47e2-88d3-0a64f8551dcf"><br>
-The screenshot below is the screen LaMelo Ball would see after attempting 5 incorrect passwords and thus locking his account out.
+The screenshot below is the screen LaMelo Ball would see after attempting 5 incorrect passwords thus locking his account out.
 <img width="500" img height="150" alt="LaMelo-locked-out" src="https://github.com/user-attachments/assets/2310ad13-4893-4c03-9fe5-1e8314f45d45"><br>
 
 
